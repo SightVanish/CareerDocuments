@@ -60,5 +60,7 @@
 
 11. `find .|xargs grep -ri "characters you want to find"` search all files under current directory to find specific characters.
 
+     1. 
+
 12. more ...
 
