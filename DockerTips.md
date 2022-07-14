@@ -1,4 +1,4 @@
-# Docker
+# Docker Tips
 
 1. Pull docker images `docker pull docker.io/library/ubuntu:18.04` or `docker pull ubuntu:18.04` in short (from docker hub)
 

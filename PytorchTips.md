@@ -1,4 +1,4 @@
-# Pytorch
+# Pytorch Tips
 
 Here is some tips for pytorch1.x.
 

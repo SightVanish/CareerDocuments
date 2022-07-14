@@ -1,4 +1,4 @@
-# Linux Commands
+# Linux (Ubuntu) Tips
 
 1. Use `lshw ` (list hardware) to show the computer hardware information.
 
@@ -60,7 +60,11 @@
 
 11. `find .|xargs grep -ri "characters you want to find"` search all files under current directory to find specific characters.
 
-     1. 
+12. The default editor in Ubuntu is GNU nano. You may dislike it, so please use vim in default.
 
-12. more ...
+     1. `sudo update-alternatives --config editor `
+     2. choose `vim.basic`
+     3. `source ~/.bashrc`
+
+13. If you cannot type in terminal, you may happen to press `CTRL+S` which locks screen. Just press `CTRL+Q` to exit.
 
